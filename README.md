@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Braden</h1>
 <h3 align="center">I'm an engineer passionate about creating applications that help those around me achieve their goals!</h3>
 
-- 💬 Ask me about **C#, JS, SQL, Vue**
+- 💬 Ask me about **C#, JS/TS, SQL, Vue**
 
 - 📥 How to contact me **bradenjparrish@gmail.com**
 
