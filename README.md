@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **C#, JS/TS, SQL, Vue**
 
-- 📥 How to contact me **bradenjparrish@gmail.com**
+- 📥 **How to contact me:** bradenjparrish@gmail.com
 
-- 🏔️ More about me **When away from the keyboard, I enjoy traveling, cars, and fitness**
+- 🏔️ **More about me:** When away from the keyboard, I enjoy traveling, cars, and fitness
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
