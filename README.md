@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C#, JS/TS, SQL, Vue**
 
-- 📥 **How to contact me:** bradenjparrish@gmail.com
+- 📥 **How to contact me:** me@bradentownsell.com
 
 - 🏔️ **More about me:** When away from the keyboard, I enjoy traveling, cars, and fitness
 
