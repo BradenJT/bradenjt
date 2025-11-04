@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Braden</h1>
 <h3 align="center">I'm a software engineer passionate about creating applications that help those around me achieve their goals!</h3>
 
-![](https://komarev.com/ghpvc/?BradenJT)
+![](https://komarev.com/ghpvc/?BradenJT&style=flat-square)
 
 - 💬 Ask me about **C#, JS/TS, SQL, Vue**
 
