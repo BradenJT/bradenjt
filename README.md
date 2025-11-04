@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?bradenjt&style=flat)
+![](https://komarev.com/ghpvc/?BradenJT)
 
 <h1 align="center">Hello👋, I'm Braden</h1>
 <h3 align="center">I'm a software engineer passionate about creating applications that help those around me achieve their goals!</h3>
